@@ -7,5 +7,14 @@
     "trigger": {
         "url-filter": ".*facebook.*"
     }
-  }
+  },
+ {
+    "action": {
+        "type": "css-display-none",
+        "selector": "main"
+    },
+    "trigger": {
+        "url-filter": ".*twitter.*"
+    }
+ }
 ]
