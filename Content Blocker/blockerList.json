@@ -2,7 +2,7 @@
   {
     "action": {
         "type": "css-display-none",
-        "selector": "#m_newsfeed_stream"
+        "selector": "#m_newsfeed_stream, #topnews_main_stream_408239535924329, #pinnedNav"
     },
     "trigger": {
         "url-filter": ".*facebook.*"
