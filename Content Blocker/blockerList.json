@@ -11,7 +11,7 @@
  {
     "action": {
         "type": "css-display-none",
-        "selector": "main"
+        "selector": "div[aria-label*='Timeline: Your Home Timeline']"
     },
     "trigger": {
         "url-filter": ".*twitter.*"
