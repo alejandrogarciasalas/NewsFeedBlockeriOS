@@ -2,7 +2,7 @@
   {
     "action": {
         "type": "css-display-none",
-        "selector": "#m_newsfeed_stream, #topnews_main_stream_408239535924329, #pinnedNav, #._51x_, ._4-u2.mbm._5v6e._4-u8"
+        "selector": "#m_newsfeed_stream, #topnews_main_stream_408239535924329, #pinnedNav, ._51x_, ._4-u2.mbm._5v6e._4-u8"
     },
     "trigger": {
         "url-filter": ".*facebook.*"
@@ -11,7 +11,7 @@
  {
     "action": {
         "type": "css-display-none",
-        "selector": "div[aria-label*='Timeline: Your Home Timeline'], #timeline > .timeline-tweet-box ~ .stream-container, .dashboard.dashboard-right, .WhoToFollow"
+        "selector": "div[aria-label*='Timeline: Your Home Timeline'], #timeline > .timeline-tweet-box ~ .stream-container"
     },
     "trigger": {
         "url-filter": ".*twitter.*"
